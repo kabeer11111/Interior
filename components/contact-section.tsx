@@ -27,10 +27,10 @@ export function ContactSection() {
             {/* Contact Link */}
             <div className="pt-6">
               <a
-                href="mailto:work.nishika@gmail.com"
+                href="mailto:work.niyashi@gmail.com"
                 className="inline-flex items-center gap-3 text-foreground hover:text-muted-foreground transition-colors duration-300 group"
               >
-                <span className="text-lg md:text-xl font-light tracking-[0.05em]">work.nishika@gmail.com</span>
+                <span className="text-lg md:text-xl font-light tracking-[0.05em]">work.niyashi@gmail.com</span>
                 <svg
                   className="w-5 h-5 transform group-hover:translate-x-1 transition-transform duration-300"
                   fill="none"
