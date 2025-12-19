@@ -39,7 +39,7 @@ export function Header() {
 
             {/* Navigation */}
             <div className="hidden md:flex items-center gap-12">
-              <NavLink href="#philosophy">Philosophy</NavLink>
+              <NavLink href="#philosophy">Our Belief</NavLink>
               <NavLink href="#process">Process</NavLink>
               <NavLink href="#work">Work</NavLink>
               <NavLink href="#contact">Contact</NavLink>
@@ -77,7 +77,7 @@ export function Header() {
       >
         <div className="flex flex-col items-center justify-center h-full gap-8">
           <MobileNavLink href="#philosophy" onClick={handleNavClick}>
-            Philosophy
+            Our Belief
           </MobileNavLink>
           <MobileNavLink href="#process" onClick={handleNavClick}>
             Process
