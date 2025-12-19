@@ -14,7 +14,7 @@ export function Footer() {
 
           {/* Links */}
           <div className="flex flex-wrap gap-8 md:gap-12">
-            <FooterLink href="#philosophy">Philosophy</FooterLink>
+            <FooterLink href="#philosophy">Our Belief</FooterLink>
             <FooterLink href="#process">Process</FooterLink>
             <FooterLink href="#work">Work</FooterLink>
             <FooterLink href="#contact">Contact</FooterLink>
