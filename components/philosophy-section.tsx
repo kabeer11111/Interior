@@ -12,7 +12,7 @@ export function PhilosophySection() {
             <div className="space-y-8 lg:pr-8">
               <div className="space-y-4">
                 <span className="text-xs tracking-[0.3em] uppercase text-muted-foreground font-[family-name:var(--font-inter)]">
-                  Philosophy
+                  Our Belief
                 </span>
                 <h2 className="text-3xl md:text-4xl lg:text-5xl font-light tracking-[0.02em] leading-tight text-balance">
                   Luxury expressed through restraint
